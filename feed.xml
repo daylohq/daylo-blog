@@ -1,8 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://blog.daylo.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://blog.daylo.com/" rel="alternate" type="text/html" /><updated>2020-10-09T15:36:24-07:00</updated><id>https://blog.daylo.com/feed.xml</id><title type="html">Daylo</title><subtitle>Secure online meetings.</subtitle><entry><title type="html">Remote Work and Networking: The Virtual Coffee Break</title><link href="https://blog.daylo.com/remote-work-and-networking-the-virtual-coffee-break/" rel="alternate" type="text/html" title="Remote Work and Networking: The Virtual Coffee Break" /><published>2020-08-22T21:14:00-07:00</published><updated>2020-08-22T21:14:00-07:00</updated><id>https://blog.daylo.com/remote-work-and-networking-the-virtual-coffee-break</id><content type="html" xml:base="https://blog.daylo.com/remote-work-and-networking-the-virtual-coffee-break/">&lt;p&gt;Remote work is the new normal, and it’s here for the foreseeable future. There are some definite perks to working from home–like not having to actually change out of your pajamas–but there are some difficulties as well. Networking is one of those.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daylo Blog</title>
+    <description></description>
+    <link>https://blog.daylo.com/</link>
+    <atom:link href="https://blog.daylo.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 07 Nov 2022 21:23:37 -0800</pubDate>
+    <lastBuildDate>Mon, 07 Nov 2022 21:23:37 -0800</lastBuildDate>
+    <generator>Jekyll v4.0.0</generator>
+    
+      <item>
+        <title>Remote Work and Networking: The Virtual Coffee Break</title>
+        <description>&lt;p&gt;Remote work is the new normal, and it’s here for the foreseeable future. There are some definite perks to working from home–like not having to actually change out of your pajamas–but there are some difficulties as well. Networking is one of those.&lt;/p&gt;
 
 &lt;p&gt;How do you network virtually? Enter the virtual coffee break.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/remote-work-and-networking-the-virtual-coffee-break/kermit-have-a-break.jpg&quot; alt=&quot;&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
+&lt;!-- ![](/assets/images/remote-work-and-networking-the-virtual-coffee-break/kermit-have-a-break.jpg){: .align-center} --&gt;
 
 &lt;p&gt;A virtual coffee break is a substitute for the type of socialization you would normally enact if not for stay-at-home orders and social distancing. You invite one or a few people to have coffee, but in this case, you all meet virtually rather than at a coffee shop. Video chat app, such as &lt;a href=&quot;https://meet.daylo.com&quot;&gt;Daylo Meet&lt;/a&gt;, can enhance the experience.&lt;/p&gt;
 
@@ -36,9 +49,24 @@
 
 &lt;p&gt;Be brave and make that first move.&lt;/p&gt;
 
-&lt;p&gt; &lt;/p&gt;</content><author><name></name></author><category term="remote-work" /><category term="networking" /><summary type="html">Remote work is the new normal, and it’s here for the foreseeable future. There are some definite perks to working from home–like not having to actually change out of your pajamas–but there are some difficulties as well. Networking is one of those.</summary></entry><entry><title type="html">Should You Let Your Employees Work From Home</title><link href="https://blog.daylo.com/should-you-let-your-employees-work-from-home/" rel="alternate" type="text/html" title="Should You Let Your Employees Work From Home" /><published>2019-10-26T12:37:00-07:00</published><updated>2019-10-26T12:37:00-07:00</updated><id>https://blog.daylo.com/should-you-let-your-employees-work-from-home</id><content type="html" xml:base="https://blog.daylo.com/should-you-let-your-employees-work-from-home/">&lt;p&gt;Most managers will have thought about letting their employees work from home at some point. However, it is never a straightforward decision, as what you gain in one area, you lose in another.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/should-you-let-your-employees-work-from-home/work-from-home.png&quot; alt=&quot;&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+</description>
+        <pubDate>Sat, 22 Aug 2020 21:14:00 -0700</pubDate>
+        <link>https://blog.daylo.com/remote-work-and-networking-the-virtual-coffee-break/</link>
+        <guid isPermaLink="true">https://blog.daylo.com/remote-work-and-networking-the-virtual-coffee-break/</guid>
+        
+        <category>remote-work</category>
+        
+        <category>networking</category>
+        
+        
+        <category>articles</category>
+        
+      </item>
+    
+      <item>
+        <title>Should You Let Your Employees Work From Home</title>
+        <description>&lt;p&gt;Most managers will have thought about letting their employees work from home at some point. However, it is never a straightforward decision, as what you gain in one area, you lose in another.&lt;/p&gt;
 
 &lt;p&gt;While previously, there was a shift towards increasing worker flexibility, the tide seems to have turned back. Now, more companies are bringing their workforce back into the office to try and boost their output.&lt;/p&gt;
 
@@ -64,7 +92,24 @@
 
 &lt;p&gt;Productivity and workplace culture are closely linked. It can be hard for collaborations and working relationships to develop when people do not meet face to face. Again, it depends on the nature of your work, as to how important this is. However, if you want to instill a particular company ethos on your employees, you are better served to do this in the office.&lt;/p&gt;
 
-&lt;p&gt;There is no right or wrong answer when deciding if you should let your employees work from home. It depends on your companies goals and how picky you can be when choosing your workforce. Consider as many aspects of your business as you can, and decide if the benefits from allowing your employee’s flexibility outweigh the gains of coming into the office.&lt;/p&gt;</content><author><name></name></author><category term="remote-work" /><category term="productivity" /><summary type="html">Most managers will have thought about letting their employees work from home at some point. However, it is never a straightforward decision, as what you gain in one area, you lose in another.</summary></entry><entry><title type="html">Screen Sharing with Safari</title><link href="https://blog.daylo.com/safari-screen-sharing/" rel="alternate" type="text/html" title="Screen Sharing with Safari" /><published>2019-05-10T15:32:00-07:00</published><updated>2019-05-10T15:32:00-07:00</updated><id>https://blog.daylo.com/safari-screen-sharing</id><content type="html" xml:base="https://blog.daylo.com/safari-screen-sharing/">&lt;p&gt;To share your screen when talking on &lt;a href=&quot;https://meet.daylo.com&quot;&gt;Daylo Meet&lt;/a&gt; from Safari on macOS. You just need to do a few simple configuration changes.&lt;/p&gt;
+&lt;p&gt;There is no right or wrong answer when deciding if you should let your employees work from home. It depends on your companies goals and how picky you can be when choosing your workforce. Consider as many aspects of your business as you can, and decide if the benefits from allowing your employee’s flexibility outweigh the gains of coming into the office.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 26 Oct 2019 12:37:00 -0700</pubDate>
+        <link>https://blog.daylo.com/should-you-let-your-employees-work-from-home/</link>
+        <guid isPermaLink="true">https://blog.daylo.com/should-you-let-your-employees-work-from-home/</guid>
+        
+        <category>remote-work</category>
+        
+        <category>productivity</category>
+        
+        
+        <category>articles</category>
+        
+      </item>
+    
+      <item>
+        <title>Screen Sharing with Safari</title>
+        <description>&lt;p&gt;To share your screen when talking on &lt;a href=&quot;https://meet.daylo.com&quot;&gt;Daylo Meet&lt;/a&gt; from Safari on macOS. You just need to do a few simple configuration changes.&lt;/p&gt;
 
 &lt;p&gt;Here is how it works!&lt;/p&gt;
 
@@ -80,7 +125,7 @@
     &lt;p&gt;&lt;img src=&quot;/assets/images/safari-screen-sharing/safari-config-0.png&quot; alt=&quot;&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;On the Adavnced tab, check &lt;code class=&quot;highlighter-rouge&quot;&gt;Show Developer menu in menu bar&lt;/code&gt;. Close &lt;code class=&quot;highlighter-rouge&quot;&gt;Preferences&lt;/code&gt; window.&lt;/p&gt;
+    &lt;p&gt;On the Adavnced tab, check `Show Developer safari-config-0.png){: .align-center}&lt;/p&gt;
 
     &lt;p&gt;&lt;img src=&quot;/assets/images/safari-screen-sharing/safari-config-1.png&quot; alt=&quot;&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
   &lt;/li&gt;
@@ -116,7 +161,24 @@
 
 &lt;blockquote&gt;
   &lt;p&gt;These steps work for the desktop version of Safari (macOS). Unfortunately screen sharing is not available for mobile Safari (iOS) yet.&lt;/p&gt;
-&lt;/blockquote&gt;</content><author><name></name></author><category term="safari" /><category term="screen-sharing" /><summary type="html">To share your screen when talking on Daylo Meet from Safari on macOS. You just need to do a few simple configuration changes.</summary></entry><entry><title type="html">Screen Sharing with Firefox</title><link href="https://blog.daylo.com/firefox-screen-sharing/" rel="alternate" type="text/html" title="Screen Sharing with Firefox" /><published>2019-04-24T07:52:00-07:00</published><updated>2019-04-24T07:52:00-07:00</updated><id>https://blog.daylo.com/firefox-screen-sharing</id><content type="html" xml:base="https://blog.daylo.com/firefox-screen-sharing/">&lt;p&gt;Is your favorite browser &lt;a href=&quot;https://www.mozilla.org/en-US/firefox/new/&quot;&gt;Firefox&lt;/a&gt;? If so, you can now share your screen when talking on &lt;a href=&quot;https://meet.daylo.com&quot;&gt;Daylo Meet&lt;/a&gt; from Firefox. It will work even when the other party is using Chrome. No plugins or extensions required!&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Fri, 10 May 2019 15:32:00 -0700</pubDate>
+        <link>https://blog.daylo.com/safari-screen-sharing/</link>
+        <guid isPermaLink="true">https://blog.daylo.com/safari-screen-sharing/</guid>
+        
+        <category>safari</category>
+        
+        <category>screen-sharing</category>
+        
+        
+        <category>meet</category>
+        
+      </item>
+    
+      <item>
+        <title>Screen Sharing with Firefox</title>
+        <description>&lt;p&gt;Is your favorite browser &lt;a href=&quot;https://www.mozilla.org/en-US/firefox/new/&quot;&gt;Firefox&lt;/a&gt;? If so, you can now share your screen when talking on &lt;a href=&quot;https://meet.daylo.com&quot;&gt;Daylo Meet&lt;/a&gt; from Firefox. It will work even when the other party is using Chrome. No plugins or extensions required!&lt;/p&gt;
 
 &lt;p&gt;Here is how it works:&lt;/p&gt;
 
@@ -142,7 +204,25 @@
   &lt;li&gt;
     &lt;p&gt;Enjoy your presentation&lt;/p&gt;
   &lt;/li&gt;
-&lt;/ol&gt;</content><author><name></name></author><category term="news" /><category term="firefox" /><category term="screen-sharing" /><summary type="html">Is your favorite browser Firefox? If so, you can now share your screen when talking on Daylo Meet from Firefox. It will work even when the other party is using Chrome. No plugins or extensions required!</summary></entry><entry><title type="html">Keep Yourself on Track (and Sane) When Working From Home</title><link href="https://blog.daylo.com/working-from-home/" rel="alternate" type="text/html" title="Keep Yourself on Track (and Sane) When Working From Home" /><published>2019-01-11T13:43:00-08:00</published><updated>2019-01-11T13:43:00-08:00</updated><id>https://blog.daylo.com/working-from-home</id><content type="html" xml:base="https://blog.daylo.com/working-from-home/">&lt;p&gt;You have this project to finish, but the garage needs to be cleaned. Better take the Christmas lights down, oh, and make sure you save some time for checking out and replying to LinkedIn and Twitter posts. If this sounds familiar to you, it’s probably because you’re trying to keep yourself on track when working from home. &lt;/p&gt;
+&lt;/ol&gt;
+
+</description>
+        <pubDate>Wed, 24 Apr 2019 07:52:00 -0700</pubDate>
+        <link>https://blog.daylo.com/firefox-screen-sharing/</link>
+        <guid isPermaLink="true">https://blog.daylo.com/firefox-screen-sharing/</guid>
+        
+        <category>firefox</category>
+        
+        <category>screen-sharing</category>
+        
+        
+        <category>meet</category>
+        
+      </item>
+    
+      <item>
+        <title>Keep Yourself on Track (and Sane) When Working From Home</title>
+        <description>&lt;p&gt;You have this project to finish, but the garage needs to be cleaned. Better take the Christmas lights down, oh, and make sure you save some time for checking out and replying to LinkedIn and Twitter posts. If this sounds familiar to you, it’s probably because you’re trying to keep yourself on track when working from home. &lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/working-from-home/working-from-home.png&quot; alt=&quot;&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
 
@@ -194,19 +274,64 @@
 
 &lt;p&gt;This is harder for those who create a lot of mess in their work, but keeping your workspace tidy helps keep your mental space free of clutter as well. It also will help tomorrow you be more productive because you won’t have to clean up after yesterday you. Throw away any scrap pieces of paper, return any plates or cups you got from the kitchen and return any books or tools you may have gotten down during the course of the day.&lt;/p&gt;
 
-&lt;p&gt;If you talk to someone who works from home, they’ll likely tell you they’d rather do nothing else. There’s no doubt the benefits outweigh the drawbacks, but only once you’ve learned to put the negatives aside. A few simple tips can help you combat the isolation that comes with remote work and keep you productive (and sane) when you’re working from home.&lt;/p&gt;</content><author><name></name></author><category term="remote-work" /><category term="productivity" /><summary type="html">You have this project to finish, but the garage needs to be cleaned. Better take the Christmas lights down, oh, and make sure you save some time for checking out and replying to LinkedIn and Twitter posts. If this sounds familiar to you, it’s probably because you’re trying to keep yourself on track when working from home. </summary></entry><entry><title type="html">Daylo</title><link href="https://blog.daylo.com/daylo/" rel="alternate" type="text/html" title="Daylo" /><published>2018-02-20T20:34:00-08:00</published><updated>2018-02-20T20:34:00-08:00</updated><id>https://blog.daylo.com/daylo</id><content type="html" xml:base="https://blog.daylo.com/daylo/">&lt;h2 id=&quot;vidello-inc-is-now-daylo-inc&quot;&gt;Vidello Inc. is now Daylo Inc.&lt;/h2&gt;
+&lt;p&gt;If you talk to someone who works from home, they’ll likely tell you they’d rather do nothing else. There’s no doubt the benefits outweigh the drawbacks, but only once you’ve learned to put the negatives aside. A few simple tips can help you combat the isolation that comes with remote work and keep you productive (and sane) when you’re working from home.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 11 Jan 2019 13:43:00 -0800</pubDate>
+        <link>https://blog.daylo.com/working-from-home/</link>
+        <guid isPermaLink="true">https://blog.daylo.com/working-from-home/</guid>
+        
+        <category>remote-work</category>
+        
+        <category>productivity</category>
+        
+        
+        <category>articles</category>
+        
+      </item>
+    
+      <item>
+        <title>Daylo</title>
+        <description>&lt;h2 id=&quot;vidello-inc-is-now-daylo-inc&quot;&gt;Vidello Inc. is now Daylo Inc.&lt;/h2&gt;
 
 &lt;p&gt;We are building the next generation of communication and collaboration tools for the distributed workforce of the future.&lt;/p&gt;
 
 &lt;p&gt;So we changed our name to better reflect our broader goals and mission.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/daylo/vidello-is-now-daylo.png&quot; alt=&quot;&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="news" /><category term="daylo" /><summary type="html">Vidello Inc. is now Daylo Inc.</summary></entry><entry><title type="html">Edge</title><link href="https://blog.daylo.com/edge/" rel="alternate" type="text/html" title="Edge" /><published>2017-11-06T16:18:00-08:00</published><updated>2017-11-06T16:18:00-08:00</updated><id>https://blog.daylo.com/edge</id><content type="html" xml:base="https://blog.daylo.com/edge/">&lt;p&gt;We are proud to announce that &lt;a href=&quot;https://meet.daylo.com&quot;&gt;Daylo Meet&lt;/a&gt; video calls now work on latest &lt;a href=&quot;https://www.microsoft.com/en-us/windows/microsoft-edge&quot;&gt;Microsoft Edge&lt;/a&gt; … and that means that you can now use Vidello with the four major browsers - Chrome, Edge, Firefox, and Safari. Enjoy!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/edge/edge-0.png&quot; alt=&quot;&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 20 Feb 2018 20:34:00 -0800</pubDate>
+        <link>https://blog.daylo.com/daylo/</link>
+        <guid isPermaLink="true">https://blog.daylo.com/daylo/</guid>
+        
+        <category>news</category>
+        
+        <category>company</category>
+        
+        
+        <category>company</category>
+        
+      </item>
+    
+      <item>
+        <title>Edge</title>
+        <description>&lt;p&gt;We are proud to announce that &lt;a href=&quot;https://meet.daylo.com&quot;&gt;Daylo Meet&lt;/a&gt; video calls now work on latest &lt;a href=&quot;https://www.microsoft.com/en-us/windows/microsoft-edge&quot;&gt;Microsoft Edge&lt;/a&gt; … and that means that you can now use Vidello with the four major browsers - Chrome, Edge, Firefox, and Safari. Enjoy!&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;NOTE: Microsoft does not offer separate updates to their browser app so you will need to upgrade to the latest version of Windows. To get the latest Microsoft Edge you will have to install the &lt;a href=&quot;https://support.microsoft.com/en-us/help/4028685/windows-10-get-the-fall-creators-update&quot;&gt;Windows 10 Fall Creators Update&lt;/a&gt;.&lt;/p&gt;
-&lt;/blockquote&gt;</content><author><name></name></author><category term="news" /><category term="edge" /><summary type="html">We are proud to announce that Daylo Meet video calls now work on latest Microsoft Edge … and that means that you can now use Vidello with the four major browsers - Chrome, Edge, Firefox, and Safari. Enjoy!</summary></entry><entry><title type="html">Improved Distraction Free Mode</title><link href="https://blog.daylo.com/improved-distraction-free-mode/" rel="alternate" type="text/html" title="Improved Distraction Free Mode" /><published>2017-10-15T15:55:00-07:00</published><updated>2017-10-15T15:55:00-07:00</updated><id>https://blog.daylo.com/improved-distraction-free-mode</id><content type="html" xml:base="https://blog.daylo.com/improved-distraction-free-mode/">&lt;p&gt;We introduced &lt;a href=&quot;/distraction-free-mode&quot;&gt;Distraction Free Mode&lt;/a&gt; back in July and at the time we were pretty happy with how we designed it. However over time it became clear that the DFM notification popup window was probably not a good idea. So we had to do something about it and here is what we came up with:&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Mon, 06 Nov 2017 16:18:00 -0800</pubDate>
+        <link>https://blog.daylo.com/edge/</link>
+        <guid isPermaLink="true">https://blog.daylo.com/edge/</guid>
+        
+        <category>edge</category>
+        
+        
+        <category>meet</category>
+        
+      </item>
+    
+      <item>
+        <title>Improved Distraction Free Mode</title>
+        <description>&lt;p&gt;We introduced &lt;a href=&quot;/distraction-free-mode&quot;&gt;Distraction Free Mode&lt;/a&gt; back in July and at the time we were pretty happy with how we designed it. However over time it became clear that the DFM notification popup window was probably not a good idea. So we had to do something about it and here is what we came up with:&lt;/p&gt;
 
 &lt;p&gt;In the latest &lt;a href=&quot;https://meet.daylo.com&quot;&gt;Daylo Meet&lt;/a&gt; version when your party goes DFM, instead of you seeing this annoying popup dialog:&lt;/p&gt;
 
@@ -220,15 +345,44 @@
 
 &lt;p&gt;And if you miss the toast you can always switch to Distraction Free Mode from the utility toolbar that appears on the right side of your screen.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/improved-distraction-free-mode/dfm_toolbar.png&quot; alt=&quot;Distraction Free Mode Tool&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="news" /><summary type="html">We introduced Distraction Free Mode back in July and at the time we were pretty happy with how we designed it. However over time it became clear that the DFM notification popup window was probably not a good idea. So we had to do something about it and here is what we came up with:</summary></entry><entry><title type="html">Safari</title><link href="https://blog.daylo.com/safari/" rel="alternate" type="text/html" title="Safari" /><published>2017-10-07T08:19:00-07:00</published><updated>2017-10-07T08:19:00-07:00</updated><id>https://blog.daylo.com/safari</id><content type="html" xml:base="https://blog.daylo.com/safari/">&lt;p&gt;&lt;span style=&quot;font-size: 133%;&quot;&gt;O&lt;/span&gt;nce upon a time there was Safari 10, and it met Vidello and said “How can I help?”. And Vidello said “I like you a lot but unfortunately you do not have real-time video. I am sorry but I cannot work with you at this time.”&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/improved-distraction-free-mode/dfm_toolbar.png&quot; alt=&quot;Distraction Free Mode Tool&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/safari/safari-0.png&quot; alt=&quot;&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 15 Oct 2017 15:55:00 -0700</pubDate>
+        <link>https://blog.daylo.com/improved-distraction-free-mode/</link>
+        <guid isPermaLink="true">https://blog.daylo.com/improved-distraction-free-mode/</guid>
+        
+        <category>productivity</category>
+        
+        
+        <category>meet</category>
+        
+      </item>
+    
+      <item>
+        <title>Safari</title>
+        <description>&lt;p&gt;&lt;span style=&quot;font-size: 133%;&quot;&gt;O&lt;/span&gt;nce upon a time there was Safari 10, and it met Vidello and said “How can I help?”. And Vidello said “I like you a lot but unfortunately you do not have real-time video. I am sorry but I cannot work with you at this time.”&lt;/p&gt;
 
 &lt;p&gt;Months passed, and more months passed, and then a few more months passed, and it felt like it would never happen but suddenly Safari 11 appeared, and Vidello could work with Safari, and Safari was happy, and Vidello was happy, and Vidello users were happy they could use Safari, and all was good.&lt;/p&gt;
 
-&lt;p&gt;Enjoy &lt;a href=&quot;https://meet.daylo.com&quot;&gt;Daylo Meet&lt;/a&gt; on &lt;a href=&quot;https://support.apple.com/downloads/safari&quot;&gt;Safari 11&lt;/a&gt; on macOS High Sierra, macOS Sierra, and macOS El Capitan.&lt;/p&gt;</content><author><name></name></author><category term="news" /><category term="safari" /><summary type="html">Once upon a time there was Safari 10, and it met Vidello and said “How can I help?”. And Vidello said “I like you a lot but unfortunately you do not have real-time video. I am sorry but I cannot work with you at this time.”</summary></entry><entry><title type="html">Firefox</title><link href="https://blog.daylo.com/firefox/" rel="alternate" type="text/html" title="Firefox" /><published>2017-09-17T10:11:00-07:00</published><updated>2017-09-17T10:11:00-07:00</updated><id>https://blog.daylo.com/firefox</id><content type="html" xml:base="https://blog.daylo.com/firefox/">&lt;p&gt;Rejoice you millions of &lt;a href=&quot;https://www.mozilla.org/en-US/firefox/new/&quot;&gt;Firefox&lt;/a&gt; fans! We worked hard for several months to give you Daylo Meet. So that now you can see each other in high definition during video calls. No plugins or extensions required.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/firefox/firefox-0.png&quot; alt=&quot;&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Enjoy &lt;a href=&quot;https://meet.daylo.com&quot;&gt;Daylo Meet&lt;/a&gt; on &lt;a href=&quot;https://support.apple.com/downloads/safari&quot;&gt;Safari 11&lt;/a&gt; on macOS High Sierra, macOS Sierra, and macOS El Capitan.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 07 Oct 2017 08:19:00 -0700</pubDate>
+        <link>https://blog.daylo.com/safari/</link>
+        <guid isPermaLink="true">https://blog.daylo.com/safari/</guid>
+        
+        <category>news</category>
+        
+        <category>safari</category>
+        
+        
+        <category>meet</category>
+        
+      </item>
+    
+      <item>
+        <title>Firefox</title>
+        <description>&lt;p&gt;Rejoice you millions of &lt;a href=&quot;https://www.mozilla.org/en-US/firefox/new/&quot;&gt;Firefox&lt;/a&gt; fans! We worked hard for several months to give you Daylo Meet. So that now you can see each other in high definition during video calls. No plugins or extensions required.&lt;/p&gt;
 
 &lt;p&gt;Here is how to use it:&lt;/p&gt;
 
@@ -252,4 +406,20 @@
 
 &lt;blockquote&gt;
   &lt;p&gt;Disclaimer: Though video calls are pretty awesome some things still need work. More specifically screen sharing and speech-to-text are not done yet, but we are working on it.&lt;/p&gt;
-&lt;/blockquote&gt;</content><author><name></name></author><category term="news" /><category term="firefox" /><summary type="html">Rejoice you millions of Firefox fans! We worked hard for several months to give you Daylo Meet. So that now you can see each other in high definition during video calls. No plugins or extensions required.</summary></entry></feed>
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Sun, 17 Sep 2017 10:11:00 -0700</pubDate>
+        <link>https://blog.daylo.com/firefox/</link>
+        <guid isPermaLink="true">https://blog.daylo.com/firefox/</guid>
+        
+        <category>news</category>
+        
+        <category>firefox</category>
+        
+        
+        <category>meet</category>
+        
+      </item>
+    
+  </channel>
+</rss>

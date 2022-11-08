@@ -3,7 +3,7 @@
 {
     "version": "https://jsonfeed.org/version/1",
     "title": "Daylo Meet",
-    "description": "Secure online meetings.",
+    "description": "",
     "home_page_url": "https://meet.daylo.com",
     "feed_url": "https://blog.daylo.com/what-is-new.json",
     "items": [
