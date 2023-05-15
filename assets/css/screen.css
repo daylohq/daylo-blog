@@ -787,7 +787,8 @@ iframe {
     margin-top: 3rem;
     padding: 0;
     border-radius: 0;
-    background-image: url(../images/hd-wallpaper-ge0a2eec10_1920.jpg);
+    /* background-image: url(../images/hd-wallpaper-ge0a2eec10_1920.jpg); */
+    background-image: url(../images/hd-wallpaper-gee1ebaf09_1920.jpg);
     background-size: cover;
 }
 
